@@ -2,4 +2,7 @@ making a github repository was the only good way to share files this big with my
 btw the source folder has the main.java file for every program
 
 test 1.0.0: has a bouncing image. you can also use the arrow keys to maniupulate it's movement.
+
 test 1.1.0: the smiley face is the player, use the arrows to move it to avoid the EVIL red square that closes the window upon contact
+
+test 1.1.1: added a 2nd red square. it is faster & wider. it also starts in a different spot & has a different starting movement direction for a more interesting gameplay experience.
